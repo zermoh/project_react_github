@@ -6,7 +6,7 @@ import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 const cors = require("cors");
-App.use(cors({
+app.use(cors({
   origin:"https://widenskills.wuaze.com",
 }))
 
