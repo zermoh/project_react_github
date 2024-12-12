@@ -9,7 +9,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 const cors = require("cors");
 //const app = express();
 App.use(cors({
-  origin:"https://widenskills.wuaze.com",
+  origin:"https://widenskills.wuaze.com/React/ManageTeacher.php",
 }));
 
 
