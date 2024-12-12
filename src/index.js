@@ -6,11 +6,12 @@ import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 //const express = require("express");
-const cors = require("cors");
+//const cors = require("cors");
 //const app = express();
-App.use(cors({
+/*App.use(cors({
   origin:"https://widenskills.wuaze.com/React/ManageTeacher.php",
 }));
+*/
 
 
 root.render(
