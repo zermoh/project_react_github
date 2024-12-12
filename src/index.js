@@ -9,7 +9,7 @@ const cors = require("cors");
 const app = express();
 app.use(cors({
   origin:"https://widenskills.wuaze.com",
-}))
+}));
 
 root.render(
   <React.StrictMode>
