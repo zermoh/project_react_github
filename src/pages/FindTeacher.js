@@ -22,7 +22,7 @@ const FindTeacher = () => {
 
        
                 <>
-                <p>Hello</p>
+                <p>Hello1</p>
                </> 
            );
          };
