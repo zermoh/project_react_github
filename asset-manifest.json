@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/project_react_github/static/css/main.e6c13ad2.css",
-    "main.js": "/project_react_github/static/js/main.a1ea656f.js",
+    "main.js": "/project_react_github/static/js/main.bbc59094.js",
     "index.html": "/project_react_github/index.html",
     "main.e6c13ad2.css.map": "/project_react_github/static/css/main.e6c13ad2.css.map",
-    "main.a1ea656f.js.map": "/project_react_github/static/js/main.a1ea656f.js.map"
+    "main.bbc59094.js.map": "/project_react_github/static/js/main.bbc59094.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a1ea656f.js"
+    "static/js/main.bbc59094.js"
   ]
 }
