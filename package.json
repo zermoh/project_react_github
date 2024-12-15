@@ -40,6 +40,5 @@
   },
   "devDependencies": {
     "react-router-dom": "^7.0.2"
-  },
-  "proxy":"https://widenskills.wuaze.com"
+  }
 }
