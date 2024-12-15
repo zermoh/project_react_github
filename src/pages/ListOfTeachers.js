@@ -9,9 +9,7 @@ const ListOfTeachers = () => {
 
     const handleSubmit = async() =>{
         console.log("==================2");
-        const proxyUrl='https://cors-anywhere.herokuapp.com/';
-            const response = await fetch (proxyUrl+
-                 "http://widenskills.mywebcommunity.org/React/ManageTeacher.php",
+        const response = await fetch ("https://widenskills.wuaze.com/React/ManageTest.php",
                 {
                     method:"POST",
                     headers : {
