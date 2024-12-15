@@ -3,6 +3,7 @@
   "name": "project_react_github",
   "version": "0.1.0",
   "private": true,
+  "proxy":"https://widenskills.wuaze.com/React",
   "dependencies": {
     "cors": "^2.8.5",
     "cra-template": "1.2.0",
