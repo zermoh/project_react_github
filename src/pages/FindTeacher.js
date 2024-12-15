@@ -8,7 +8,7 @@ const FindTeacher = () => {
     let[list,setList]=useState("");
 
     const handleSubmit = async() =>{
-        console.log("==================2");
+        console.log("==================1");
         const response = fetch ("http://widenskills.mywebcommunity.org/React/TestList.php");
         console.log(response);
                 
