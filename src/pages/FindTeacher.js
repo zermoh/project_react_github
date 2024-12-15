@@ -9,10 +9,10 @@ const FindTeacher = () => {
 
     const handleSubmit = async() =>{
         console.log("==================2");
-        const response = await fetch ("http://widenskills.mywebcommunity.org/React/TestList.php");
-       /*  console.log(response);
+        const response = fetch ("http://widenskills.mywebcommunity.org/React/TestList.php");
+        console.log(response);
                 
-            const data = await response.json();
+        /*    const data = await response.json();
             for (let i=0;i<data.length;i++){
                 console.log(data[i].name);
             }
