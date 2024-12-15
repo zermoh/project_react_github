@@ -9,7 +9,7 @@ const ListOfTeachers = () => {
 
     const handleSubmit = async() =>{
         console.log("==================2");
-        const response = await fetch ("/ManageTeacher.php",
+        const response = await fetch ("/React/ManageTeacher.php",
                 {
                     method:"POST",
                     headers : {
